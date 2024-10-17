@@ -4,14 +4,13 @@ Name: Calista Gerard
 Date: 11/16/2022
 Description: During the COVID-19 Pandemic, US federal healthcare organizations included
 the LGBTQ+ community in some of the criteria for accessing the early Covid vaccinations
-and it was not really talked about. I worked in the healthcare system at this time, and
-part of my responsibilites at that time were to collect demographic information of 
-patients; many patients scoffed at the questions. Prior to COVID19, and even now, 
+and it was not really talked about. Medical offices collect demographic information of 
+patients. Prior to COVID19, and even now, 
 the research about social minorities and health risks has been very minimal. 
 In the doctor's office answering demograpic information honestly, if it feels safe and open to,
-can lead to further advancements in public health.
+can lead to further research in public health.
 
-
+Color pallet: Scence of Scenery by Hyunjin Jo
 Data drawn from PDF in file.
 url: 
 https://www.cdc.gov/mmwr/volumes/70/wr/pdfs/mm7005a1-H.pdf
