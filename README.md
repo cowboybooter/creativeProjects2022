@@ -26,6 +26,13 @@ https://www.cdc.gov/mmwr/volumes/70/wr/pdfs/mm7005a1-H.pdf
 
 ### [soundProject](soundProject/soundProject.pde)
 
+Description: This projects analyzes a few tweets from politicans. It feels on par with how that sounds. 
+ Below are the tweets in the form which can be read by the rest of the code. When a word with a negative connotation is read, a negative sound plays (and visa versa with good sounds). 
+ Searching for these tweets, the first three were found by Googling Top [name] Tweets and searching through them for something that seemed to talk about the individual as a person rather than their views as 
+ a political figure.
+ The last two pairs below were the term "trans" searched on well-known politcal figures (with opposing ideas) twitter profiles.
+ Next Line contains instructions.
+
 ### [threeDimentional](threeDimentional/threeDimentional.pde)
 
 ### [Game](Game/Game.pde)
