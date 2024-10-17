@@ -1,6 +1,6 @@
 /*
 Project Title: Demographics at Check-In
-Name: Calista Gerard
+Name: CB
 Date: 11/16/2022
 Description: During the COVID-19 Pandemic, US federal healthcare organizations included
 the LGBTQ+ community in some of the criteria for accessing the early Covid vaccinations
