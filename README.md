@@ -9,8 +9,11 @@ Second, the projects within this repo are from a class I took at the University 
 
 ## Projects
 
-### dataVisualization.pde
+### [dataVisualization.pde](dataVisualization.pde)
 
+### project
+### project
+### project
 
 ## Thank you!
 Thank you for exploring my repository!
