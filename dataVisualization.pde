@@ -11,6 +11,7 @@ the research about social minorities and health risks has been very minimal.
 In the doctor's office answering demograpic information honestly, if it feels safe and open to,
 can lead to further advancements in public health.
 
+Color pallet: Sence of Scenery by Hyunjin Jo
 
 Data drawn from PDF in file.
 url: 
