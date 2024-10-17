@@ -1,7 +1,7 @@
 /*
    CB
    11/03/22
-   This project features a lot of little pouches made from code. 
+   This project features a lot of little pouches made from manipulated rings. 
    Sort of in a flower way, but if printed large enough a little home for succulents.
  */
 
