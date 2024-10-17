@@ -17,5 +17,8 @@ Second, the projects within this repo are from a class I took at the University 
 
 ### [Game](Game/Game.pde)
 
+Description: The objective of this game is to jump across the screen on the lily pads.
+The frog cannot jump backwards.
+
 ## Thank you!
 Thank you for exploring my repository!
